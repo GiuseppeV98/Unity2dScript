@@ -7,7 +7,7 @@ public class enemyManager : MonoBehaviour
 {
 private gridManager gridManager;
 public GameObject target;
-
+public GameObject target;
 Vector3 newCoor;
 Vector3 targetPos = new Vector3(-1,-1,0);
 Vector3 LastCoor = new Vector3(-1,-1,0);
